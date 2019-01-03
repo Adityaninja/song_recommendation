@@ -28,10 +28,7 @@ train_data, test_data = train_test_split(song_df, test_size=0.2, random_state=0)
 
 item_based_obj = item_based()
 item_based_obj.create(train_data, 'a62ea261b06fc91fe52ead186cc5f5602a37abaf')
-item_based_obj.recommend()
-
-
-
+song_list = item_based_obj.recommend()
 
 pass
 
