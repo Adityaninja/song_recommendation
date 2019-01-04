@@ -1,3 +1,3 @@
 Objective:
-A song recommendation system using content and collaborative filtering
+A song recommendation system using collaborative and popularity based recommendation.
 
