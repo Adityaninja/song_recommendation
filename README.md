@@ -1,2 +1,3 @@
-A song recommendation system using popularity based and item-item collaborative filtering.
+##Objective:
+A song recommendation system using content and collaborative filtering
 
