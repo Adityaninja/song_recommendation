@@ -1,2 +1,2 @@
-A song recommendation system using content and collaborative filtering
+A song recommendation system using popularity based and item-item collaborative filtering.
 
